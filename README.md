@@ -1,0 +1,2 @@
+**Implementing NEPacketTunnelProvider and SwiftNIO server for VPN/Proxy/Sniffer for iOS**
+Sample project doesn't provide whole implementation of VPN, neither data decryption. Main goal, is to provide sample project, which shows implementation of tunneling data for iOS devices in swift. App is able to show uri, timestamp, and method for each connection within your iOS device. You would need developer certificate and real device.
