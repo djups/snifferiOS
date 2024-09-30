@@ -1,0 +1,6 @@
+framework module Pods_VPN {
+  umbrella header "Pods-VPN-umbrella.h"
+
+  export *
+  module * { export * }
+}
