@@ -602,7 +602,7 @@
 				CODE_SIGN_ENTITLEMENTS = VPN/Resources/VPN.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = J3JX9R3MM2;
+				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
 				HEADER_SEARCH_PATHS = "";
 				INFOPLIST_FILE = VPN/Resources/Info.plist;
@@ -636,7 +636,7 @@
 				CODE_SIGN_ENTITLEMENTS = VPN/Resources/VPN.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = J3JX9R3MM2;
+				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
 				HEADER_SEARCH_PATHS = "";
 				INFOPLIST_FILE = VPN/Resources/Info.plist;
@@ -666,7 +666,7 @@
 				CODE_SIGN_ENTITLEMENTS = NetworkExtensionVPN/NetworkExtensionVPN.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = J3JX9R3MM2;
+				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = NetworkExtensionVPN/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = NetworkExtensionVPN;
@@ -693,7 +693,7 @@
 				CODE_SIGN_ENTITLEMENTS = NetworkExtensionVPN/NetworkExtensionVPN.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = J3JX9R3MM2;
+				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = NetworkExtensionVPN/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = NetworkExtensionVPN;
